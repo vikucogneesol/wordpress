@@ -24,7 +24,7 @@
 
 <body <?php body_class(); ?>>
 <div id="page" class="site">
-	<h1>Welcome to you vikram cogneesol</h1>
+	<h1>Welcome to you</h1>
 	<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentyseventeen' ); ?></a>
 
 	<header id="masthead" class="site-header" role="banner">
